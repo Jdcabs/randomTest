@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Main {
 
-
-
     public static void main(String args[]) {
 
         // operator_Selection operator_selection = new operator_Selection();
@@ -42,10 +40,6 @@ public class Main {
 //        laptop1.setProduct(201, "Lenovo", 33000, 8, "Windows 10 Pro", "Intel Core i5-33989", 1000);
 //        laptop1.getProduct();
     }
-
-    public static Integer xyz(int a , int b) {
-        a += 10;
-        b += 20;
-        return null;
-    }
+    // changes
+    
 }
