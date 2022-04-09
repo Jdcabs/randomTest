@@ -41,5 +41,7 @@ public class Main {
 //        laptop1.getProduct();
     }
     // changes
-    
+    public static void sayHello() {
+        System.out.println("Hello");
+    }
 }
